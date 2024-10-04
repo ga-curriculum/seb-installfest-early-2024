@@ -1,6 +1,6 @@
 # ![Instructor Guide](../assets/instructor-guide.png)
 
-***Nothing here yet.***
+**_Nothing here yet._**
 
 ---
 
