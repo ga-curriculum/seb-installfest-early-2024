@@ -316,7 +316,7 @@ Use the below command to add a user name to Git, which will be used to identify 
 git config --global user.name "User Name"
 ```
 
-Next, use the below command to add an email to Git, which will be used to identify your commits. Replace `user@email.com` with the email address associated with your **[`https://github.com`](https://github.com)** account (***NOT your GitHub Enterprise account at [`https://git.generalassemb.ly`](https://git.generalassemb.ly)***). **The email you provide MUST match the email address associated with your GitHub account.** Ensure you leave the quotes surrounding your email. There will not be any output from this command. If you don't have a **[`https://github.com`](https://github.com)** account yet, create one before you run this.
+Next, use the below command to add an email to Git, which will be used to identify your commits. Replace `user@email.com` with the email address associated with your **[`https://github.com`](https://github.com)** account. **The email you provide MUST match the email address associated with your GitHub account.** Ensure you leave the quotes surrounding your email. There will not be any output from this command. If you don't have a **[`https://github.com`](https://github.com)** account yet, create one before you run this.
 
 ```bash
 git config --global user.email "user@email.com"
